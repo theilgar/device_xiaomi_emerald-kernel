@@ -43,7 +43,6 @@ ftdi_sio.ko
 ptp.ko
 ptp_kvm.ko
 pwrseq-core.ko
-exynos-hvm.ko
 rust_binder.ko
 pps_core.ko
 hci_uart.ko
@@ -53,6 +52,7 @@ btqca.ko
 gnss.ko
 8021q.ko
 vmw_vsock_virtio_transport.ko
+tls.ko
 can.ko
 can-raw.ko
 can-bcm.ko
