@@ -191,7 +191,6 @@ haptic.ko
 fshaptic_o.ko
 perf_helper.ko
 mi_schedule.ko
-metis.ko
 xiaomi.ko
 switch_class.ko
 ft3683g.ko

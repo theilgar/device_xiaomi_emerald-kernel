@@ -177,5 +177,4 @@ perf_helper.ko
 binder_prio.ko
 mi_wmark.ko
 mi_schedule.ko
-metis.ko
 xiaomi_spi_tee.ko
