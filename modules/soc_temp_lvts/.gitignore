@@ -1,0 +1,11 @@
+# build outputs (rebuild: see README)
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+.*.cmd
+Module.symvers
+Module.symvers.all
+modules.order
+.tmp_versions/

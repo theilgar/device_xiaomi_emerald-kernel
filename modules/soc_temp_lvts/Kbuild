@@ -1,0 +1,3 @@
+# Out-of-tree build of the MediaTek LVTS thermal driver for the emerald GKI 6.12 kernel.
+obj-m := soc_temp_lvts.o
+ccflags-y += -DCONFIG_MTK_THERMAL_INTERFACE_MODULE=1 -include $(src)/mtk-include/linux/soc/mediatek/mtk_sip_svc.h -I$(srctree)/drivers/thermal -I$(src)

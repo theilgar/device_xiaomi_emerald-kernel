@@ -1,0 +1,4 @@
+0xa5ae9ade	get_apu_temp	thermal_interface	EXPORT_SYMBOL_GPL	
+0x8eb863b6	set_cold_interrupt_enable_addr	thermal_interface	EXPORT_SYMBOL_GPL	
+0x08557925	set_reboot_temperature	thermal_interface	EXPORT_SYMBOL_GPL	
+0x2bb7299d	thermal_csram_base	thermal_interface	EXPORT_SYMBOL_GPL	
