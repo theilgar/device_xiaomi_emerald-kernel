@@ -160,7 +160,9 @@ pmsr.ko
 camera_dip_isp6s.ko
 camera_fdvt_isp51.ko
 camera_rsc_isp6s.ko
+rfkill.ko
 mac80211.ko
+libarc4.ko
 fmradio_drv_mt6631_6635.ko
 mtk_fpsgo_v3.ko
 fpsgo.ko
